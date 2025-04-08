@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 Welcome to My GitHub!  
-Hi, I'm Sumit Foujdar!. I am a Python developer and an upcoming programmer. I'm passionate about coding and building projects using my favorite technologies..
+Hi, I'm Sumit Foujdar! I'm a Python developer and an enthusiastic programmer. I'm passionate about coding, exploring cybersecurity, and building cool tech projects using my favorite tools and technologies.
 
 ![Profile views](https://komarev.com/ghpvc/?username=z4my&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -41,7 +41,8 @@ Hi, I'm Sumit Foujdar!. I am a Python developer and an upcoming programmer. I'm 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sum1t.ie)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-foujdar)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](sumitfoujdarcsel@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumitfoujdarcsel@gmail.com)
+
 
 ---
 
