@@ -30,11 +30,6 @@ Hi, I'm Sumit Foujdar! I'm a Python developer and an enthusiastic programmer. I'
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z4my&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z4my&layout=compact&theme=radical&cache_seconds=1800)
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z4my&theme=radical)
 
 ---
