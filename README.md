@@ -1,46 +1,123 @@
-# Hello, World! 👋
 
-Welcome to My GitHub!  
-Hi, I'm Sumit Foujdar! I'm a Python developer and an enthusiastic programmer. I'm passionate about coding, exploring cybersecurity, and building cool tech projects using my favorite tools and technologies.
+# 👋 Hi, I'm Sumit Foujdar
 
-![Profile views](https://komarev.com/ghpvc/?username=z4my&label=Profile%20views&color=0e75b6&style=flat)
+### 🔐 Cybersecurity Student | Python & Linux Learner | Aspiring Cybersecurity Professional
 
----
-
-## 🛠️ Tech Stack
-
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E3440?style=flat&logo=hackthebox&logoColor=green)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools & IDEs**:  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=z4my&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 👨‍💻 About Me
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z4my&theme=radical)
+I'm a B.Tech Computer Science and Engineering student specializing in **Cyber Security and Digital Forensics at VIT Bhopal**.
+
+I'm passionate about technology, cybersecurity, and understanding how computer systems and networks work.
+
+Currently, I'm building my technical foundation through programming, Linux environments, and hands-on learning.
+
+- 🎓 B.Tech CSE – Cyber Security & Digital Forensics
+- 🐍 Learning Python programming
+- 🐧 Exploring Linux and Kali Linux
+- 🔐 Interested in Cybersecurity and Information Security
+- 🌐 Learning Computer Networking fundamentals
+- 🛠️ Familiar with Git and GitHub
+- 🚀 Focused on building practical projects
+- 🎯 Goal: Grow into a skilled cybersecurity professional
 
 ---
 
-## 🚀 Connect with me
+## 🛠️ Technical Skills
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sum1t.ie)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-foujdar)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumitfoujdarcse@gmail.com)
+### 💻 Programming Languages
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🐧 Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-![Banner](https://raw.githubusercontent.com/z4my/z4my/main/assets/banner.png)
+## 📚 Currently Learning
+
+- Python Programming Fundamentals
+- Linux Commands and System Administration
+- Computer Networking
+- Cybersecurity Fundamentals
+- Information Security
+- Git and GitHub Workflows
+
+---
+
+## 🎯 Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-1A1B27?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Network_Security-1A1B27?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-1A1B27?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Development-1A1B27?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=z4my&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4my&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4my&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🚀 Projects
+
+I'm working towards building practical projects in Python, Linux, and Cybersecurity.
+
+New projects and learning experiments will be added here as I complete them.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sumit-foujdar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://instagram.com/sum1t.ie" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="mailto:sumitfoujdarcse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 💡 My Philosophy
+
+### "Learn consistently. Build practically. Improve every day."
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/z4my/z4my/main/assets/banner.png" width="100%" alt="Sumit Foujdar Cybersecurity Banner" />
+</p>
